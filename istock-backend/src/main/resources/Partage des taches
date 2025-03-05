@@ -1,0 +1,22 @@
+core--> Alpha Amadou diallo
+configuration--> Alpha Amadou DIALLO
+----------
+authentification--> Kouloube KOLIE
+company ++ Moussa Camara
+product ++ Mouctar KABA
+sale--> KoulouBe Kolie
+setting++
+    setting.data--> Mouctar Kaba
+    setting.domain--> Kouloube KOLIE
+    setting.endpoint--> Moussa Camara
+stock++ Alpha Amadou DIALLO
+------
+unit-test--> Alpha Amadou DIALLO
+-------------------------------
+Rapport
+Documentation
+Explication
+Base de donnees -Diagramme de classe (expliquer le Diagramme)
+Netoyage du code(back-front
+------------------------------
+Deploiement (backend-frontend):Alpha-Amadou-DIALLO
