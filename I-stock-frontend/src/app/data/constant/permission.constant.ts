@@ -1,3 +1,0 @@
-export enum PermissionConstant {
-    SALE_ACCESS_ACTION_SALE_SAVE_ORDER = 'ACCESS_ACTION_SALE_SAVE_ORDER'
-}

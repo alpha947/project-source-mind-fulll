@@ -1,5 +1,0 @@
-<ng-container *ngIf="isTemplateRef; else stringContentTmpl" [ngTemplateOutlet]="contentRef"></ng-container>
-
-<ng-template #stringContentTmpl>
-    <label>{{content ?? '-'}}</label>
-</ng-template>
